@@ -1,2 +1,2 @@
 # Xcode-Project
-iOS app to discover the United State Of America
+iOS app for discover the United State Of America
